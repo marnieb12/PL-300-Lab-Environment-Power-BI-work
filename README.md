@@ -94,11 +94,11 @@ The final lab focused on **DAX** (Data Analysis Expressions) to create powerful 
 
 Feel free to explore the steps, code, and files for each of the labs below! Each lab has its own directory, where I’ve included the necessary **Power BI** files and data used in the labs.
 
-1. **[Prepare Data Lab](./prepare-data-lab)** - Power BI file demonstrating data import and transformation.
-2. **[Clean Data Lab](./clean-data-lab)** - Power BI file showing how to handle missing data and duplicates.
-3. **[Design Data Model Lab](./design-model-lab)** - Power BI file with a well-structured data model.
-4. **[Create Effective Reports Lab](./create-reports-lab)** - Power BI file featuring interactive reports.
-5. **[DAX Lab](./dax-lab)** - Power BI file showcasing DAX calculations for custom measures.
+1. **lab** - Power BI file demonstrating data import and transformation.
+2. **02-Starter-Sales-Analysis** - Power BI file showing how to handle missing data and duplicates.
+3. **03-Starter-Sales-Analysis** - Power BI file with a well-structured data model.
+4. **06-Starter-Sales-Analysis** - Power BI file featuring interactive reports.
+5. **04-Starter-Sales-Analysis** - Power BI file showcasing DAX calculations for custom measures.
 
 ---
 
